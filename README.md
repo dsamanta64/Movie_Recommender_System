@@ -35,7 +35,7 @@
             <li> Clone the repository:<br><br> 
 git clone https://github.com/debabrata64/Movie_Recommender_System.git</li><br>
             <li> Change to the project directory:<br><br>
-cd movie-recommender-system</li><br>
+cd Movie_Recommender_System</li><br>
             <li> Install the required Python packages:<br><br>
 pip install -r requirements.txt</li><br>
             <li> Start the development server:<br><br>

@@ -18,8 +18,7 @@
         <ul>
             <li><strong>Frontend</strong>: HTML, CSS</li>
             <li><strong>Backend</strong>: Streamlit</li>
-
-           </ul>
+        </ul>
 </section>
    
 

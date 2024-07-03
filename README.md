@@ -33,7 +33,7 @@
     
 <ol>
             <li> Clone the repository:<br><br> 
-git clone https://github.com/debabrata64/movie-recommender-system.git</li><br>
+git clone https://github.com/debabrata64/Movie_Recommender_System.git</li><br>
             <li> Change to the project directory:<br><br>
 cd movie-recommender-system</li><br>
             <li> Install the required Python packages:<br><br>

@@ -24,7 +24,7 @@
 
   <section>
          <h2>Usage</h2>
-           <li><strong>To run the Movie Recommender System directly, click <a href="https://movie-recommender-system-tmdb.streamlit.app/">here</a>.</strong></li>
+           <li><strong>To run the Movie Recommender System directly, click <a href="https://movie-recommender-system-tmdb.streamlit.app/" target="_blank">here</a>.</strong></li>
            <br>
           <strong>Note</strong>:
           <ol>

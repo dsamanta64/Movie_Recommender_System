@@ -24,24 +24,37 @@
 
   <section>
          <h2>Usage</h2>
-         <strong>Note</strong>:
-         <ol>
-         <li> It is advised to open the website on PC/Laptop. Still, if you are using it on mobile, please turn on the desktop mode for desired visualization.</li>
-         </ol><br>
+           <li><strong>To run the Movie Recommender System directly, click <a href="https://movie-recommender-system-tmdb.streamlit.app/">here</a>.</strong></li>
+           <br>
+          <strong>Note</strong>:
+          <ol>
+           <li> It is advised to open the website on PC/Laptop. Still, if you are using it on mobile, please turn on the desktop mode for desired visualization.</li>
+          </ol><br>
+          <li><strong>How to run it on your own machine, follow these steps: </strong></li>
 
- <li><strong>To run the it locally, follow these steps:</strong></li>
-    
-<ol>
-            <li> Clone the repository:<br><br> 
-git clone https://github.com/debabrata64/Movie_Recommender_System.git</li><br>
-            <li> Change to the project directory:<br><br>
-cd Movie_Recommender_System</li><br>
-            <li> Install the required Python packages:<br><br>
-pip install -r requirements.txt</li><br>
-            <li> Start the development server:<br><br>
-streamlit run app.py</li><br>
+1. Clone the repository
 
+   ```
+   $ git clone https://github.com/debabrata64/Movie_Recommender_System.git
+   ```
 
+2. Change to the project directory
+
+   ```
+   $ cd Movie_Recommender_System
+   ```
+   
+3. Install the requirements
+
+   ```
+   $ pip install -r requirements.txt
+   ```
+
+4. Run the app
+
+   ```
+   $ streamlit run app.py
+   ```
 
    </section> 
            

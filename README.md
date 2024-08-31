@@ -35,7 +35,7 @@
 1. Clone the repository
 
    ```
-   $ git clone https://github.com/debabrata64/Movie_Recommender_System.git
+   $ git clone https://github.com/dsamanta64/Movie_Recommender_System.git
    ```
 
 2. Change to the project directory
